@@ -43,7 +43,6 @@ This column helps analyze higher-level business trends, such as which quarter dr
 
 4. Food Type <br>
 This column classifies every dish into two simple categories: <br>
-Veg <br>
-Non-Veg <br>
+Veg and Non-Veg <br>
 It was created to understand customer preferences at the most fundamental level—whether people tend to order vegetarian dishes or non-vegetarian ones more frequently. <br>
 This helps identify trends such as which cities prefer Veg items, how Non-Veg sales change over time, and how food type influences overall revenue and ratings.<br>
